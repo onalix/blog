@@ -2,6 +2,7 @@ title: "Ramon's blog"
 author: "Ramon N. Rayas"
 description: "Onalix, LLC"
 permalink: /:title/
+destination: _public/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
